@@ -7,7 +7,7 @@
 
 - 🚧 I am currently building out my Open Source [TradingView Scripts & Strategies](https://github.com/DJRobertson95/TradingView-Scripts-1)
 
-- 🔭 I recently finished building [Health Hive](https://github.com/DJRobertson95/Health-Hive-Back-End)
+- 🔭 I recently finished building [Personal Website](https://github.com/AGuyNamedDJ/Personal-Website)
 
 - 🖥️ I'm currently learning Amazon Web Services (AWS).  I'm also studying to take Security+ (CompTIA Security+)
 
