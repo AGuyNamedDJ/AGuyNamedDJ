@@ -11,7 +11,7 @@
 
 - 🖥️ I'm currently learning Amazon Web Services (AWS).  I'm also studying to take Security+ (CompTIA Security+)
 
-- 📫 I'm currently open to job oppurtunities, here's how to reach me. **dalronj.robertson@gmail.com**
+- 📫 I'm currently open to job oppurtunities, here's how to reach me. [Resume](https://www.dropbox.com/s/cf9hkmn7wii2rpz/DJR-Resume-2023-7.pdf?dl=0) **dalronj.robertson@gmail.com**
 
 - 📄 Read about my experiences [https://www.linkedin.com/in/dalronjrobertson/](https://www.linkedin.com/in/dalronjrobertson/)
 
