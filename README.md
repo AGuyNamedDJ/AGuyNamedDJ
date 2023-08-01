@@ -16,9 +16,12 @@
 - 📄 Read about my experiences [https://www.linkedin.com/in/dalronjrobertson/](https://www.linkedin.com/in/dalronjrobertson/)
 
 - ⚡ Fun fact **I love real estate & am a Private Equity/Hedge Trader.**
-- 
+
+  
 <h3 align="left">New Technologies:</h3>
 <p align="left">Here are all the new technologies I am looking to add into my stack and build projects showcasing my abilities.</p>
+
+<div align="center">
 
 <table>
   <tr>
@@ -32,6 +35,8 @@
     <td>MongoDB</td>
   </tr>
 </table>
+
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
