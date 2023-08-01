@@ -18,8 +18,8 @@
 - ⚡ Fun fact **I love real estate & am a Private Equity/Hedge Trader.**
 
   
-<h3 align="left">New Technologies:</h3>
-<p align="left">Here are all the new technologies I am looking to add into my stack and build projects showcasing my abilities.</p>
+<h3 align="center">New Technologies:</h3>
+<p align="center">Here are all the new technologies I am looking to add into my stack and build projects showcasing my abilities.</p>
 
 <div align="center">
 
@@ -27,12 +27,27 @@
   <tr>
     <td>Typescript</td>
     <td>Java</td>
-    <td>Python</td>
+    <td>MongoDB</td>
   </tr>
   <tr>
-    <td>.net</td>
+    <td>Python</td>
     <td>C#</td>
-    <td>MongoDB</td>
+    <td>MySQL</td>
+  </tr>
+    <tr>
+    <td>.net</td>
+    <td>ASP.net</td>
+    <td>NoSQL</td>
+  </tr>
+    <tr>
+    <td>react native</td>
+    <td>Angular</td>
+    <td>DynamoDB</td>
+  </tr>
+    <tr>
+    <td>ASP.net</td>
+    <td>.net core</td>
+    <td>GraphQL</td>
   </tr>
 </table>
 
