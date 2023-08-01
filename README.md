@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love real estate & am a Private Equity/Hedge Trader.**
 
-  
+  <br></br>
 <h3 align="center">New Technologies:</h3>
 <p align="center">Here are all the new technologies I am looking to add into my stack and build projects showcasing my abilities.</p>
 
