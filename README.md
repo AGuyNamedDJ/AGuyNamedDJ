@@ -5,6 +5,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=djroberton95&label=Profile%20views&color=0e75b6&style=flat" alt="djroberton95" /> </p>
 
+- 🚧 I am currently building the frontend for my first physical business [Jamal](https://github.com/AGuyNamedDJ/Jamal)
+
 - 🔭 I recently finished building [Jamal](https://github.com/AGuyNamedDJ/Jamal-Backend)
 
 - 🔭 I recently finished building [Personal Website](https://github.com/AGuyNamedDJ/Personal-Website)
