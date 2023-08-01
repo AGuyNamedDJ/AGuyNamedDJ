@@ -18,7 +18,14 @@
 - ⚡ Fun fact **I love real estate & am a Private Equity/Hedge Trader.**
 
 <h3 align="left">New Technologies:</h3>
-<p align="left"><a>Hi</a> 
+<p align="left"><a>Here are all the new technologies I am looking to add into my stack and build projects showcasing my abilities.</a> 
+
+- Typescript
+- Java
+- Python
+- .net
+- C#
+- MongoDB
 </p>
 
 <h3 align="left">Connect with me:</h3>
