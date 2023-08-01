@@ -7,9 +7,7 @@
 
 - 🚧 I am currently building the frontend for my first physical business [Jamal](https://github.com/AGuyNamedDJ/Jamal)
 
-- 🔭 I recently finished building [Jamal](https://github.com/AGuyNamedDJ/Jamal-Backend)
-
-- 🔭 I recently finished building [Personal Website](https://github.com/AGuyNamedDJ/Personal-Website)
+- 🔭 I recently finished building [Jamal](https://github.com/AGuyNamedDJ/Jamal-Backend) & [Personal Website](https://github.com/AGuyNamedDJ/Personal-Website)
 
 - 🖥️ I'm currently learning Amazon Web Services (AWS).  I'm also studying to take Security+ (CompTIA Security+)
 
