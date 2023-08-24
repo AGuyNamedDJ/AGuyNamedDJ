@@ -15,7 +15,7 @@
 
 - 📄 Read about my experiences [https://www.linkedin.com/in/dalronjrobertson/](https://www.linkedin.com/in/dalronjrobertson/)
 
-- ⚡ Fun fact **I love real estate & am a Private Equity/Hedge Trader.**
+- ⚡ Fun fact **I love real estate & I am a Private Equity/Hedge Trader.**
 
   <br></br>
 <h3 align="center">New Technologies:</h3>
