@@ -1,0 +1,84 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOOLqqGc3p95h8paqw2KQ+F",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/AGuyNamedDJ/AGuyNamedDJ/blob/main/Bulba-Data-Analysis-08\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "K11G4dfV8BLA",
+        "outputId": "a66826d9-0c8f-4e16-e2ff-3bb91f1a1b62"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "    airline  flight source_city departure_time stops arrival_time  \\\n",
+            "6  SpiceJet  SG-401   Bangalore  Early_Morning  zero      Morning   \n",
+            "5   Vistara  UK-852   Bangalore        Morning   one      Evening   \n",
+            "7    Indigo  6E-676   Bangalore          Night  zero        Night   \n",
+            "\n",
+            "  destination_city    class  duration  days_left  price  \n",
+            "6          Kolkata  Economy      2.58         15   3916  \n",
+            "5          Kolkata  Economy     10.08         14  15930  \n",
+            "7          Kolkata  Economy      2.67         15   5178  \n"
+          ]
+        }
+      ],
+      "source": [
+        "import pandas as pd\n",
+        "\n",
+        "# Create a Pandas DataFrame from the given data\n",
+        "df = pd.DataFrame({\n",
+        "    \"airline\": [\"SpiceJet\", \"AirAsia\", \"Vistara\", \"Vistara\", \"Vistara\", \"Vistara\", \"SpiceJet\", \"Indigo\"],\n",
+        "    \"flight\": [\"SG-8709\", \"I5-764\", \"UK-963\", \"UK-945\", \"UK-927\", \"UK-852\", \"SG-401\", \"6E-676\"],\n",
+        "    \"source_city\": [\"Delhi\", \"Delhi\", \"Delhi\", \"Delhi\", \"Delhi\", \"Bangalore\", \"Bangalore\", \"Bangalore\"],\n",
+        "    \"departure_time\": [\"Evening\", \"Early_Morning\", \"Morning\", \"Morning\", \"Morning\", \"Morning\", \"Early_Morning\", \"Night\"],\n",
+        "    \"stops\": [\"zero\", \"zero\", \"zero\", \"zero\", \"zero\", \"one\", \"zero\", \"zero\"],\n",
+        "    \"arrival_time\": [\"Night\", \"Early_Morning\", \"Morning\", \"Afternoon\", \"Morning\", \"Evening\", \"Morning\", \"Night\"],\n",
+        "    \"destination_city\": [\"Mumbai\", \"Mumbai\", \"Mumbai\", \"Mumbai\", \"Mumbai\", \"Kolkata\", \"Kolkata\", \"Kolkata\"],\n",
+        "    \"class\": [\"Economy\", \"Economy\", \"Economy\", \"Economy\", \"Economy\", \"Economy\", \"Economy\", \"Economy\"],\n",
+        "    \"duration\": [2.17, 2.17, 2.33, 2.33, 2.08, 10.08, 2.58, 2.67],\n",
+        "    \"days_left\": [1, 1, 1, 1, 1, 14, 15, 15],\n",
+        "    \"price\": [5953, 5956, 5955, 5955, 6060, 15930, 3916, 5178]})\n",
+        "\n",
+        "# Remove flights departing from Delhi and arriving in Mumbai\n",
+        "df_filtered = df[(df[\"source_city\"] != \"Delhi\") | (df[\"destination_city\"] != \"Mumbai\")]\n",
+        "\n",
+        "# Sort the remaining records by departure_time in ascending order\n",
+        "df_filtered = df_filtered.sort_values(by=[\"departure_time\"], ascending=True)\n",
+        "\n",
+        "# Display the filtered and sorted DataFrame\n",
+        "print(df_filtered)\n"
+      ]
+    }
+  ]
+}
