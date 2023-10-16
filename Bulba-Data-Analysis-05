@@ -1,0 +1,69 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOOBvFxBfx51bK+J1ambu/X",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/AGuyNamedDJ/AGuyNamedDJ/blob/main/Bulba-Data-Analysis-05\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "fcsLvDaR2bVl",
+        "outputId": "d91c4e1d-f423-4728-f815-d650dbf6cee1"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Average number of mobile phone brands per country in 'South America': 3.00\n",
+            "Country in 'Oceania' with the highest number of distinct mobile phone brands:  Australia\n"
+          ]
+        }
+      ],
+      "source": [
+        "import pandas as pd\n",
+        "\n",
+        "\n",
+        "data = pd.read_csv('mobile-phone-brands-by-country.csv')\n",
+        "\n",
+        "\n",
+        "south_america_data = data[data['Region'] == 'South America']\n",
+        "\n",
+        "\n",
+        "average_brands_per_country = south_america_data.groupby('Country')['Brand'].nunique().mean()\n",
+        "\n",
+        "oceania_data = data[data['Region'] == 'Oceania']\n",
+        "\n",
+        "country_with_highest_brands = oceania_data.groupby('Country')['Brand'].nunique().idxmax()\n",
+        "print(f\"Average number of mobile phone brands per country in 'South America': {average_brands_per_country:.2f}\")\n",
+        "print(f\"Country in 'Oceania' with the highest number of distinct mobile phone brands: {country_with_highest_brands}\")\n"
+      ]
+    }
+  ]
+}
