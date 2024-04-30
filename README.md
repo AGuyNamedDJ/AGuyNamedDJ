@@ -31,23 +31,13 @@
   </tr>
   <tr>
     <td>Python</td>
-    <td>C#</td>
+    <td>react native</td>
     <td>MySQL</td>
   </tr>
     <tr>
-    <td>.net</td>
-    <td>ASP.net</td>
-    <td>NoSQL</td>
-  </tr>
-    <tr>
-    <td>react native</td>
     <td>Angular</td>
     <td>DynamoDB</td>
-  </tr>
-    <tr>
-    <td>ASP.net</td>
-    <td>.net core</td>
-    <td>GraphQL</td>
+    <td>NoSQL</td>
   </tr>
 </table>
 
