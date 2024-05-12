@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=djroberton95&label=Profile%20views&color=0e75b6&style=flat" alt="djroberton95" /> </p>
 
-- 🚧 I am currently on break from coding, working fulltime as an AI Software Engineer.
+- 🚧 I am currently building two AI systems [Transposit](https://github.com/AGuyNamedDJ/Transposit) & [Lumen](https://github.com/AGuyNamedDJ/Lumen).
 
 - 🔭 I recently finished building [Jamal: Backend](https://github.com/AGuyNamedDJ/Jamal-Backend) & [Personal Website](https://github.com/AGuyNamedDJ/Personal-Website)
 
