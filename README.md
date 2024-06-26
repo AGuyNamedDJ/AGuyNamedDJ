@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Dalron J. Robertson</h1>
-<h3 align="center">AI Software Engineer with Expertise in LLMs & Development</h3>
+<h3 align="center">AI Software Engineer with Expertise in LLMs & Life Sciences</h3>
 
 <p align="center">
     <a href="https://dalronjrobertson.com" target="_blank">Website</a> |
