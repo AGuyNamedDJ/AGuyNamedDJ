@@ -6,10 +6,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=djroberton95&label=Profile%20views&color=0e75b6&style=flat" alt="djroberton95" /> </p>
 
 <p align="center">
-    <a href="https://instagram.com/aguynameeddj" target="_blank">Instagram</a> |
-    <a href="https://linkedin.com/in/dalronjrobertson" target="_blank">LinkedIn</a> |
-    <a href="https://dalronjrobertson.com" target="_blank">Website</a> |
-    <a href="https://youtube.com/@AGNDJ" target="_blank">YouTube</a>
+    <a href="https://linkedin.com/in/dalronjrobertson" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalronjrobertson" height="30" width="40" /></a>
+    <a href="https://dalronjrobertson.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg" alt="Website" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/aguynameddj/" target="_blank"><img align="center" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" alt="Instagram" height="40" width="40" /></a>
+    <a href="https://youtube.com/@AGNDJ" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" alt="YouTube" height="40" width="40" /></a>
 </p>
 
 ---
@@ -31,6 +31,8 @@
 #### Tools & Technologies
 - Git | Jest | AWS | DocuTrack | Framework LTC | UiPath
 
+---
+
 - 🚧 I am currently building two AI systems [Transposit](https://github.com/AGuyNamedDJ/Transposit) & [Lumen](https://github.com/AGuyNamedDJ/Lumen).
 
 - 🔭 I recently finished building [Jamal: Backend](https://github.com/AGuyNamedDJ/Jamal-Backend) & [Personal Website](https://github.com/AGuyNamedDJ/Personal-Website)
@@ -42,33 +44,6 @@
 - 📄 Read about my experiences [https://www.linkedin.com/in/dalronjrobertson/](https://www.linkedin.com/in/dalronjrobertson/)
 
 - ⚡ Fun fact **I love real estate & I am a Private Equity/Hedge Trader.**
-
-  <br></br>
-<h3 align="center">New Technologies:</h3>
-<p align="center">Here are all the new technologies I am looking to add into my stack and build projects showcasing my abilities.</p>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>Typescript</td>
-    <td>Java</td>
-    <td>MongoDB</td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>react native</td>
-    <td>MySQL</td>
-  </tr>
-    <tr>
-    <td>Angular</td>
-    <td>DynamoDB</td>
-    <td>NoSQL</td>
-  </tr>
-</table>
-
-</div>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/dalronjrobertson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalronjrobertson" height="30" width="40" /></a> <a href="https://www.codewars.com/users/DJRobertson95" target="_blank" rel="noreferrer"> <img align="center" src="https://media2.giphy.com/media/PST7uhCwPGhZstgMsn/giphy.gif?cid=790b76114dd439c9ec52a6c1ec271f66b54e0f6f078c624e&rid=giphy.gif&ct=s" alt="css3" width="40" height="40"/></a> <a href ="https://www.instagram.com/aguynameddj/" target="blank"><img align="center"src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" alt="dalronjrobertson" height="40" width="40"></a> <a href ="https://www.threads.net/@aguynameddj" target="blank"><img align="center"src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638252100920000000" alt="dalronjrobertson" height="30" width="30"></a> <a href ="https://twitter.com/AGuyNamedDJ_" target="blank"><img align="center"src="https://seeklogo.com/images/T/twitter-x-logo-8FD8E6C4FD-seeklogo.com.png?v=638258862930000000" alt="dalronjrobertson" height="40" width="40"></a> <a href ="https://youtube.com/@AGNDJ" target="blank"><img align="center"src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" alt="dalronjrobertson" height="70" width="80"></a>
