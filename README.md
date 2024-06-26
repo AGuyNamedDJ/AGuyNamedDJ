@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://linkedin.com/in/dalronjrobertson" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalronjrobertson" height="30" width="40" /></a>
-    <a href="https://dalronjrobertson.com" target="_blank"><img align="center" src="[[https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg](https://dalronjrobertson.com/images/AGNDJ.png](https://dalronjrobertson.com/images/AGNDJ.png)](https://avatars.githubusercontent.com/u/112004061?v=4)" alt="Website" height="30" width="40" /></a>
+    <a href="https://dalronjrobertson.com" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/112004061?v=4" alt="Website" height="30" width="40" /></a>
     <a href="https://www.instagram.com/aguynameddj/" target="_blank"><img align="center" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" alt="Instagram" height="40" width="40" /></a>
     <a href="https://youtube.com/@AGNDJ" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" alt="YouTube" height="40" width="40" /></a>
 </p>
