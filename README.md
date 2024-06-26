@@ -49,19 +49,19 @@
 #### Data Science & Machine Learning
 <p align="left">
     <a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/></a>
-    <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="60" height="40"/></a>
+    <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="65" height="40"/></a>
     <a href="https://pandas.pydata.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></a>
     <a href="https://numpy.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/></a>
 </p>
 
 #### Tools & Technologies
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    <img src="https://via.placeholder.com/40" alt="docutrack" width="40" height="40"/>
-    <img src="https://via.placeholder.com/40" alt="framework-ltc" width="40" height="40"/>
-    <img src="https://via.placeholder.com/40" alt="uipath" width="40" height="40"/>
+    <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></a>
+    <a href="https://jestjs.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/></a>
+    <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+    <a href="https://www.redsailtechnologies.com/pharmacy-software/docutrack" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9617d8911e0a2f79d3325d01245fc722/docutrack.png" alt="docutrack" width="40" height="40"/></a>
+    <a href="https://frameworkltc.com" target="_blank"><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a10b4425-fa40-454f-b4c1-0e10e2e3201d.png?ixlib=rb-1.0.0&ch=Width%2CDPR&auto=format&w=750&h=450&q=50" alt="framework-ltc" width="40" height="40"/></a>
+    <a href="https://www.uipath.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/8/80/UiPath_2019_Corporate_Logo.png" alt="uipath" width="70" height="40"/></a>
 </p>
 
 #### Tools & Technologies
