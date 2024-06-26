@@ -49,7 +49,7 @@
 #### Data Science & Machine Learning
 <p align="left">
     <a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/></a>
-    <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/></a>
+    <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40" height="40"/></a>
     <a href="https://pandas.pydata.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></a>
     <a href="https://numpy.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/></a>
 </p>
@@ -63,9 +63,6 @@
     <img src="https://via.placeholder.com/40" alt="framework-ltc" width="40" height="40"/>
     <img src="https://via.placeholder.com/40" alt="uipath" width="40" height="40"/>
 </p>
-
-#### Data Science & Machine Learning
-- TensorFlow | Scikit-Learn | Pandas | NumPy
 
 #### Tools & Technologies
 - Git | Jest | AWS | DocuTrack | Framework LTC | UiPath
