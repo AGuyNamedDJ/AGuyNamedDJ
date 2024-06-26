@@ -67,12 +67,12 @@
 ---
 
 ### Projects in Development
-- **[Transposit](https://github.com/AGuyNamedDJ/Transposit)** An advanced system automating the distribution of incoming deposits into various financial accounts based on set percentages. [GitHub Repository](https://github.com/AGuyNamedDJ/Transposit)
-- **Lumen:** An AI-driven trading platform tailored to autonomously execute and manage advanced options strategies. [GitHub Repository](https://github.com/AGuyNamedDJ/Lumen)
+- **Transposit** An advanced system automating the distribution of incoming deposits into various financial accounts based on set percentages. [Backend Repository](https://github.com/AGuyNamedDJ/Transposit)
+- **Lumen:** An AI-driven trading platform tailored to autonomously execute and manage advanced options strategies. [Backend Repository](https://github.com/AGuyNamedDJ/Lumen)
 
 ### Recently Completed Projects
-- **Jamal: Backend:** A robust API for a Salon Suite Franchise app managing bookings, user roles, direct messaging, and payment system. [GitHub Repository](https://github.com/AGuyNamedDJ/Jamal-Backend)
-- **Personal Website:** My personal website showcasing my portfolio and projects. [Visit Website](https://dalronjrobertson.com)
+- **Jamal: Backend:** A robust API for a Salon Suite Franchise app managing bookings, user roles, direct messaging, and payment system. [Backend Repository](https://github.com/AGuyNamedDJ/Jamal-Backend)
+- **Personal Website:** My personal website showcasing my portfolio and projects. [Visit Website](https://dalronjrobertson.com) [Frontend Repository](https://github.com/AGuyNamedDJ/Personal-Website)
 
 ### Professional Development & Certifications
 - **Amazon Web Services (AWS):** Enhancing cloud computing skills with AWS training.
@@ -82,25 +82,7 @@
 - **Email:** Feel free to reach out to me at [dalronj.robertson@gmail.com](mailto:dalronj.robertson@gmail.com)
 - **Resume:** [View My Resume](https://www.dropbox.com/scl/fi/gfq577iyorqptm9286val/DJR-Resume.docx-8.pdf?rlkey=8rh26az6v6mfuioj84zoilods&st=4lrwiine&dl=0)
 
-### Additional Information
-- **LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/dalronjrobertson/)
-- **Fun Fact:** I love real estate and I am a Private Equity/Hedge Trader.
-
-
-
 ---
-
-- 🚧 I am currently building two AI systems [Transposit](https://github.com/AGuyNamedDJ/Transposit) & [Lumen](https://github.com/AGuyNamedDJ/Lumen).
-
-- 🔭 I recently finished building [Jamal: Backend](https://github.com/AGuyNamedDJ/Jamal-Backend) & [Personal Website](https://github.com/AGuyNamedDJ/Personal-Website)
-
-- 🖥️ I'm currently learning Amazon Web Services (AWS).  I'm also studying to take Security+ (CompTIA Security+)
-
-- 📫 I'm currently open to job oppurtunities, here's how to reach me.  [View Resume](https://www.dropbox.com/scl/fi/a3c2aub6hov0ud8boegzt/DJR-Resume-10.pdf?rlkey=8l10ywdg2wn0hbf82rsn1vxkc&st=x1x98lcu&dl=0) **dalronj.robertson@gmail.com**
-
-- 📄 Read about my experiences [https://www.linkedin.com/in/dalronjrobertson/](https://www.linkedin.com/in/dalronjrobertson/)
-
-- ⚡ Fun fact **I love real estate & I am a Private Equity/Hedge Trader.**
 
 <a>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aguynameddj&show_icons=true&locale=en" alt="aguynameddj" /></p>
