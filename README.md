@@ -74,7 +74,7 @@
 - **Jamal: Back-End:** A robust API for a Salon Suite Franchise app managing bookings, user roles, direct messaging, and payment system. [Back-End Repository](https://github.com/AGuyNamedDJ/Jamal-Backend)
 - **Health Hive:** A comprehensive backend solution for hospital data management, built with Node.js, Express, and PostgreSQL. This project emphasizes extensive database management, demonstrated by the db/seed.js file, which contains over 10,000 lines of code. Health Hive features secure authentication with JSON Web Tokens and environment variable management with dotenv, showcasing my ability to handle and manage large, complex databases efficiently. [Back-End Repository](https://github.com/AGuyNamedDJ/Health-Hive-Back-End)
 
-- **Personal Website:** My personal website showcasing my portfolio and projects. [Visit Website](https://dalronjrobertson.com) [Front-End Repository](https://github.com/AGuyNamedDJ/Personal-Website)
+- **Personal Website:** My personal website showcasing my portfolio and projects.[Visit Website](https://dalronjrobertson.com) [Front-End Repository](https://github.com/AGuyNamedDJ/Personal-Website)
 
 ### Professional Development & Certifications
 - **Amazon Web Services (AWS):** Enhancing cloud computing skills with AWS training.
