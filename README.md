@@ -5,6 +5,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=djroberton95&label=Profile%20views&color=0e75b6&style=flat" alt="djroberton95" /> </p>
 
+<p align="center">
+    <a href="https://dalronjrobertson.com" target="_blank">Website</a> |
+    <a href="https://linkedin.com/in/dalronjrobertson" target="_blank">LinkedIn</a> |
+    <a href="https://instagram.com/aguynameeddj" target="_blank">Instagram</a> |
+    <a href="https://youtube.com/@AGNDJ" target="_blank">YouTube</a>
+</p>
+
 - 🚧 I am currently building two AI systems [Transposit](https://github.com/AGuyNamedDJ/Transposit) & [Lumen](https://github.com/AGuyNamedDJ/Lumen).
 
 - 🔭 I recently finished building [Jamal: Backend](https://github.com/AGuyNamedDJ/Jamal-Backend) & [Personal Website](https://github.com/AGuyNamedDJ/Personal-Website)
