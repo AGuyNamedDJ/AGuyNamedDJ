@@ -66,6 +66,22 @@
 
 ---
 
+### Current Projects
+- **Transposit:** An advanced system automating the distribution of incoming deposits into various financial accounts based on set percentages. [GitHub Repository](https://github.com/AGuyNamedDJ/Transposit)
+- **Lumen:** An AI-driven trading platform tailored to autonomously execute and manage advanced options strategies. [GitHub Repository](https://github.com/AGuyNamedDJ/Lumen)
+
+### Recently Completed Projects
+- **Jamal: Backend:** A robust API for a Salon Suite Franchise app managing bookings, user roles, direct messaging, and payment system. [GitHub Repository](https://github.com/AGuyNamedDJ/Jamal-Backend)
+- **Personal Website:** My personal website showcasing my portfolio and projects. [Visit Website](https://dalronjrobertson.com)
+
+### Learning & Certifications
+- **Amazon Web Services (AWS):** Currently learning AWS to enhance cloud computing skills.
+- **CompTIA Security+:** Studying for the Security+ certification to deepen cybersecurity knowledge.
+
+
+
+---
+
 - 🚧 I am currently building two AI systems [Transposit](https://github.com/AGuyNamedDJ/Transposit) & [Lumen](https://github.com/AGuyNamedDJ/Lumen).
 
 - 🔭 I recently finished building [Jamal: Backend](https://github.com/AGuyNamedDJ/Jamal-Backend) & [Personal Website](https://github.com/AGuyNamedDJ/Personal-Website)
