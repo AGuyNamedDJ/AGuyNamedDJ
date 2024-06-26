@@ -66,7 +66,7 @@
 
 ---
 
-### Current Projects
+### Projects in Development
 - **Transposit:** An advanced system automating the distribution of incoming deposits into various financial accounts based on set percentages. [GitHub Repository](https://github.com/AGuyNamedDJ/Transposit)
 - **Lumen:** An AI-driven trading platform tailored to autonomously execute and manage advanced options strategies. [GitHub Repository](https://github.com/AGuyNamedDJ/Lumen)
 
@@ -74,9 +74,17 @@
 - **Jamal: Backend:** A robust API for a Salon Suite Franchise app managing bookings, user roles, direct messaging, and payment system. [GitHub Repository](https://github.com/AGuyNamedDJ/Jamal-Backend)
 - **Personal Website:** My personal website showcasing my portfolio and projects. [Visit Website](https://dalronjrobertson.com)
 
-### Learning & Certifications
-- **Amazon Web Services (AWS):** Currently learning AWS to enhance cloud computing skills.
-- **CompTIA Security+:** Studying for the Security+ certification to deepen cybersecurity knowledge.
+### Professional Development & Certifications
+- **Amazon Web Services (AWS):** Enhancing cloud computing skills with AWS training.
+- **CompTIA Security+:** Deepening cybersecurity knowledge through CompTIA Security+ certification.
+
+### Contact Information
+- **Email:** Feel free to reach out to me at [dalronj.robertson@gmail.com](mailto:dalronj.robertson@gmail.com)
+- **Resume:** [View My Resume](https://www.dropbox.com/scl/fi/gfq577iyorqptm9286val/DJR-Resume.docx-8.pdf?rlkey=8rh26az6v6mfuioj84zoilods&st=4lrwiine&dl=0)
+
+### Additional Information
+- **LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/dalronjrobertson/)
+- **Fun Fact:** I love real estate and I am a Private Equity/Hedge Trader.
 
 
 
