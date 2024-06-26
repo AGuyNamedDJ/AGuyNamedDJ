@@ -1,16 +1,35 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Dalron J. Robertson</h1>
-<h3 align="center">Passionate Tech Enthusiast and Software Engineer</h3>
+<h3 align="center">AI Software Engineer with Expertise in LLMs & Development</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=djroberton95&label=Profile%20views&color=0e75b6&style=flat" alt="djroberton95" /> </p>
 
 <p align="center">
-    <a href="https://dalronjrobertson.com" target="_blank">Website</a> |
-    <a href="https://linkedin.com/in/dalronjrobertson" target="_blank">LinkedIn</a> |
     <a href="https://instagram.com/aguynameeddj" target="_blank">Instagram</a> |
+    <a href="https://linkedin.com/in/dalronjrobertson" target="_blank">LinkedIn</a> |
+    <a href="https://dalronjrobertson.com" target="_blank">Website</a> |
     <a href="https://youtube.com/@AGNDJ" target="_blank">YouTube</a>
 </p>
+
+---
+
+### 🛠 Technical Skills
+
+#### Languages
+- Javascript | Python | PineScript | Java | C | C++ | PostgreSQL | MySQL
+
+#### Web Development
+- Node.js | React.js | Express.js | HTML | CSS | AJAX | DOM | jQuery
+
+#### AI & Large Language Models
+- Gemini | GPT | Grok | LlaMa
+
+#### Data Science & Machine Learning
+- TensorFlow | Scikit-Learn | Pandas | NumPy
+
+#### Tools & Technologies
+- Git | Jest | AWS | DocuTrack | Framework LTC | UiPath
 
 - 🚧 I am currently building two AI systems [Transposit](https://github.com/AGuyNamedDJ/Transposit) & [Lumen](https://github.com/AGuyNamedDJ/Lumen).
 
