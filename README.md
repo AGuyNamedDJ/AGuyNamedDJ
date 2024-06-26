@@ -29,14 +29,39 @@
 </p>
 
 #### Web Development
-- Node.js | React.js | Express.js | HTML | CSS | AJAX | DOM | jQuery
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</p>
+
+#### AI & Large Language Models
+<p align="left">
+    <img src="https://via.placeholder.com/40" alt="gemini" width="40" height="40"/>
+    <img src="https://via.placeholder.com/40" alt="gpt" width="40" height="40"/>
+    <img src="https://via.placeholder.com/40" alt="grok" width="40" height="40"/>
+    <img src="https://via.placeholder.com/40" alt="llama" width="40" height="40"/>
+</p>
+
+#### Data Science & Machine Learning
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/>
+</p>
+
+#### Tools & Technologies
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="https://via.placeholder.com/40" alt="docutrack" width="40" height="40"/>
+    <img src="https://via.placeholder.com/40" alt="framework-ltc" width="40" height="40"/>
+    <img src="https://via.placeholder.com/40" alt="uipath" width="40" height="40"/>
 </p>
 
 
