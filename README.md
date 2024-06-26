@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠 Technical Skills 🛠
+### Technical Skills 
 
 #### Languages
 <p align="left">
