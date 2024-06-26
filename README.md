@@ -43,7 +43,7 @@
     <a href="https://blog.google/technology/ai/google-gemini-ai/#sundar-note" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/1024px-Google_Gemini_logo.svg.png" alt="gemini" width="40" height="40"/></a>
     <a href="https://openai.com/chatgpt/" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/021/059/825/original/chatgpt-logo-chat-gpt-icon-on-green-background-free-vector.jpg" alt="gpt" width="40" height="40"/></a>
     <a href="https://x.ai" target="_blank"><img src="https://x.ai/apple-icon.png?d82460d2a9afe67b" alt="grok" width="40" height="40"/></a>
-    <a href="https://llama.meta.com/#" target="_blank"><img src="https://www.enterpriseai.news/wp-content/uploads/2024/04/4-19-24-meta-ai-logo-685x320.web" alt="llama" width="40" height="40"/></a>
+    <a href="https://llama.meta.com/#" target="_blank"><img src="https://www.enterpriseai.news/wp-content/uploads/2024/04/4-19-24-meta-ai-logo-685x320.webp" alt="llama" width="40" height="40"/></a>
 </p>
 
 #### Data Science & Machine Learning
