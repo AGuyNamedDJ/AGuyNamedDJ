@@ -40,10 +40,10 @@
 
 #### AI & Large Language Models
 <p align="left">
-    <img src="https://via.placeholder.com/40" alt="gemini" width="40" height="40"/>
-    <img src="https://via.placeholder.com/40" alt="gpt" width="40" height="40"/>
-    <img src="https://via.placeholder.com/40" alt="grok" width="40" height="40"/>
-    <img src="https://via.placeholder.com/40" alt="llama" width="40" height="40"/>
+    <a href="https://blog.google/technology/ai/google-gemini-ai/#sundar-note" target="_blank"><img src="https://via.placeholder.com/40" alt="gemini" width="40" height="40"/></a>
+    <a href="https://openai.com/chatgpt/" target="_blank"><img src="https://via.placeholder.com/40" alt="gpt" width="40" height="40"/></a>
+    <a href="https://x.ai" target="_blank"><img src="https://via.placeholder.com/40" alt="grok" width="40" height="40"/></a>
+    <a href="https://llama.meta.com/#" target="_blank"><img src="https://via.placeholder.com/40" alt="llama" width="40" height="40"/></a>
 </p>
 
 #### Data Science & Machine Learning
