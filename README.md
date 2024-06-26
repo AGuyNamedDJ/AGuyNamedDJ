@@ -4,11 +4,17 @@
 <h3 align="center">AI Software Engineer with Expertise in LLMs & Development</h3>
 
 <p align="center">
-    <a href="https://dalronjrobertson.com" target="_blank" style="color: brown; text-decoration: none; transition: opacity 0.3s;" onmousedown="this.style.opacity='0.6'" onmouseup="this.style.opacity='1'">Website</a> |
-    <a href="https://linkedin.com/in/dalronjrobertson" target="_blank" style="color: brown; text-decoration: none; transition: opacity 0.3s;" onmousedown="this.style.opacity='0.6'" onmouseup="this.style.opacity='1'">LinkedIn</a> |
-    <a href="https://instagram.com/aguynameeddj" target="_blank" style="color: brown; text-decoration: none; transition: opacity 0.3s;" onmousedown="this.style.opacity='0.6'" onmouseup="this.style.opacity='1'">Instagram</a> |
-    <a href="https://youtube.com/@AGNDJ" target="_blank" style="color: brown; text-decoration: none; transition: opacity 0.3s;" onmousedown="this.style.opacity='0.6'" onmouseup="this.style.opacity='1'">YouTube</a>
+    <a href="https://dalronjrobertson.com" target="_blank" style="color: brown; text-decoration: none;">Website</a> |
+    <a href="https://linkedin.com/in/dalronjrobertson" target="_blank" style="color: brown; text-decoration: none;">LinkedIn</a> |
+    <a href="https://instagram.com/aguynameeddj" target="_blank" style="color: brown; text-decoration: none;">Instagram</a> |
+    <a href="https://youtube.com/@AGNDJ" target="_blank" style="color: brown; text-decoration: none;">YouTube</a>
 </p>
+
+<style>
+    a:hover {
+        opacity: 0.6;
+    }
+</style>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=djroberton95&label=Profile%20views&color=0e75b6&style=flat" alt="djroberton95" /> </p>
 
