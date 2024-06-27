@@ -67,7 +67,7 @@
 ---
 
 ### Projects in Development
-- **Transposit** An advanced system automating the distribution of incoming deposits into various financial accounts based on set percentages. [Back-End Repository](https://github.com/AGuyNamedDJ/Transposit)
+- **Transposit** An advanced system automating the distribution of incoming deposits into various financial accounts based on set percentages. [Front-End Repository](https://github.com/AGuyNamedDJ/Transposit-Web) [Back-End Repository](https://github.com/AGuyNamedDJ/Transposit)
 - **Lumen:** An AI-driven trading platform tailored to autonomously execute and manage advanced options strategies. [Back-End Repository](https://github.com/AGuyNamedDJ/Lumen)
 
 ### Recently Completed Projects
