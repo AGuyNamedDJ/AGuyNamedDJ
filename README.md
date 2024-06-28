@@ -76,7 +76,7 @@
 
 - **Personal Website:** My personal website showcasing my portfolio and projects.[Visit Website](https://dalronjrobertson.com) [Front-End Repository](https://github.com/AGuyNamedDJ/Personal-Website)
 
-### Professional Development & Certifications
+### Professional Development & Certifications in Progress
 - **Amazon Web Services (AWS):** Enhancing cloud computing skills with AWS training.
 - **CompTIA Security+:** Deepening cybersecurity knowledge through CompTIA Security+ certification.
 
