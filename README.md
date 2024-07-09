@@ -67,7 +67,7 @@
 ---
 
 ### Projects in Development
-- **Lumen:** An AI-driven trading platform tailored to autonomously execute and manage advanced options strategies. [Back-End Repository](https://github.com/AGuyNamedDJ/Lumen)
+- **Lumen:** An AI-driven trading platform tailored to autonomously execute and manage advanced options strategies. [Back-End Repository](https://github.com/AGuyNamedDJ/Lumen) [Front-End Repository](https://github.com/AGuyNamedDJ/Lumen-Front-End)
 - **Transposit** An advanced system automating the distribution of incoming deposits into various financial accounts based on set percentages. [Front-End Repository](https://github.com/AGuyNamedDJ/Transposit-Web) [Back-End Repository](https://github.com/AGuyNamedDJ/Transposit)
 
 ### Recently Completed Projects
