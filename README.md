@@ -14,13 +14,13 @@
 
 ---
 
+### Professional Development & Certifications in Progress
+- **Doctor of Pharmacy**
+
 ### Projects in Development
 - **Knowledge Model:** Our knowledge system systematically ingests, processes, and indexes open-access life science publications. It supports internal research by providing precise question-answering and efficient retrieval from a continuously updated repository of scientific literature. [Back-End Repository](https://github.com/NaS-Research/knowledge-model)
 - **Lumen:** An AI-driven trading platform tailored to autonomously execute and manage advanced options strategies. [Back-End Repository](https://github.com/AGuyNamedDJ/Lumen),  [Front-End Repository](https://github.com/AGuyNamedDJ/Lumen-Front-End)
 
-
-### Professional Development & Certifications in Progress
-- **Doctor of Pharmacy**
 
 ### Contact Information
 - **Email:** Feel free to reach out to me at [dalronj.robertson@gmail.com](mailto:dalronj.robertson@gmail.com)
