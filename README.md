@@ -26,7 +26,7 @@
 
 #### Bioinformatics & Molecular Modeling
 <p align="left">
-    <a href="https://alphafold.ebi.ac.uk/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/AlphaFold_Logo.png" alt="alphafold" width="40" height="40"/></a>
+    <a href="https://alphafold.ebi.ac.uk/" target="_blank"><img src="https://res.cloudinary.com/apideck/image/upload/v1638775806/icons/alphafold.png" alt="alphafold" width="40" height="40"/></a>
     <a href="https://www.cgl.ucsf.edu/chimerax/" target="_blank"><img src="https://www.cgl.ucsf.edu/chimerax/docs/user/images/icons/icon256.png" alt="chimerax" width="40" height="40"/></a>
     <a href="https://www.molinspiration.com" target="_blank"><img src="https://www.molinspiration.com/logoMi.gif" alt="molinspiration" width="40" height="40"/></a>
     <a href="https://www.schrodinger.com" target="_blank"><img src="https://pbs.twimg.com/profile_images/1562532161156229120/1Toqf0pI_400x400.png" alt="schrodinger" width="40" height="40"/></a>
@@ -85,7 +85,7 @@
 ---
 
 ### Projects in Development
-- **Knowledge Model** Our knowledge system systematically ingests, processes, and indexes open-access life science publications. It supports internal research by providing precise question-answering and efficient retrieval from a continuously updated repository of scientific literature. [Back-End Repository](https://github.com/NaS-Research/knowledge-model)
+- **Knowledge Model:** Our knowledge system systematically ingests, processes, and indexes open-access life science publications. It supports internal research by providing precise question-answering and efficient retrieval from a continuously updated repository of scientific literature. [Back-End Repository](https://github.com/NaS-Research/knowledge-model)
 - **Lumen:** An AI-driven trading platform tailored to autonomously execute and manage advanced options strategies. [Back-End Repository](https://github.com/AGuyNamedDJ/Lumen),  [Front-End Repository](https://github.com/AGuyNamedDJ/Lumen-Front-End)
 
 
