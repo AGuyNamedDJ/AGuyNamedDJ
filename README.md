@@ -1,12 +1,12 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
-<h1 align="center">Dalron J. Robertson</h1>
-<h3 align="center">Advancing  Large Language Models & Biotech Innovations</h3>
+<h1 align="center">Dalron J. Robertson, M.S. </h1>
+<h3 align="center">AI & Computational Pharmacology | Biotech Innovations | PharmD Candidate</h3>
 
 <p align="center">
-    <a href="https://dalronjrobertson.com" target="_blank">Website</a> |
-    <a href="https://linkedin.com/in/dalronjrobertson" target="_blank">LinkedIn</a> |
     <a href="https://instagram.com/aguynameeddj" target="_blank">Instagram</a> |
+    <a href="https://linkedin.com/in/dalronjrobertson" target="_blank">LinkedIn</a> |
+    <a href="https://dalronjrobertson.com" target="_blank">Website</a> |
     <a href="https://youtube.com/@AGNDJ" target="_blank">YouTube</a>
 </p>
 
@@ -15,6 +15,39 @@
 ---
 
 ### Technical Skills 
+
+#### AI & Large Language Models
+<p align="left">
+    <a href="https://blog.google/technology/ai/google-gemini-ai/#sundar-note" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/1024px-Google_Gemini_logo.svg.png" alt="gemini" width="40" height="40"/></a>
+    <a href="https://openai.com/chatgpt/" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/021/059/825/original/chatgpt-logo-chat-gpt-icon-on-green-background-free-vector.jpg" alt="gpt" width="40" height="40"/></a>
+    <a href="https://x.ai" target="_blank"><img src="https://x.ai/apple-icon.png?d82460d2a9afe67b" alt="grok" width="40" height="40"/></a>
+    <a href="https://llama.meta.com/#" target="_blank"><img src="https://www.enterpriseai.news/wp-content/uploads/2024/04/4-19-24-meta-ai-logo-685x320.webp" alt="llama" width="40" height="40"/></a>
+</p>
+
+#### Bioinformatics & Molecular Modeling
+<p align="left">
+    <a href="https://alphafold.ebi.ac.uk/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/AlphaFold_Logo.png" alt="alphafold" width="40" height="40"/></a>
+    <a href="https://www.cgl.ucsf.edu/chimerax/" target="_blank"><img src="https://www.cgl.ucsf.edu/chimerax/docs/user/images/icons/icon256.png" alt="chimerax" width="40" height="40"/></a>
+    <a href="https://www.molinspiration.com" target="_blank"><img src="https://www.molinspiration.com/logoMi.gif" alt="molinspiration" width="40" height="40"/></a>
+    <a href="https://www.schrodinger.com" target="_blank"><img src="https://pbs.twimg.com/profile_images/1562532161156229120/1Toqf0pI_400x400.png" alt="schrodinger" width="40" height="40"/></a>
+    <a href="https://www.swisstargetprediction.ch" target="_blank"><img src="https://www.expasy.org/assets/images/resources/swisstargetprediction.png" alt="swisstargetprediction" width="40" height="40"/></a>
+    <a href="https://www.uniprot.org" target="_blank"><img src="https://www.uniprot.org/assets/images/logos/uniprot-rgb-optimized.svg" alt="uniprot" width="40" height="40"/></a>
+</p>
+
+#### Computational Chemistry
+<p align="left">
+    <a href="https://cadd.labshare.cn/cb-dock2/" target="_blank"><img src="https://cadd.labshare.cn/static/image/favicon.ico" alt="cb-dock2" width="40" height="40"/></a>
+    <a href="https://www.schrodinger.com/products/glide" target="_blank"><img src="https://pbs.twimg.com/profile_images/1562532161156229120/1Toqf0pI_400x400.png" alt="schrodinger-glide" width="40" height="40"/></a>
+</p>
+
+
+#### Data Science & Machine Learning
+<p align="left">
+    <a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/></a>
+    <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="65" height="40"/></a>
+    <a href="https://pandas.pydata.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></a>
+    <a href="https://numpy.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/></a>
+</p>
 
 #### Languages
 <p align="left">
@@ -28,6 +61,16 @@
     <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
 </p>
 
+#### Tools & Technologies
+<p align="left">
+    <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></a>
+    <a href="https://jestjs.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/></a>
+    <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+    <a href="https://www.redsailtechnologies.com/pharmacy-software/docutrack" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9617d8911e0a2f79d3325d01245fc722/docutrack.png" alt="docutrack" width="40" height="45"/></a>
+    <a href="https://frameworkltc.com" target="_blank"><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a10b4425-fa40-454f-b4c1-0e10e2e3201d.png?ixlib=rb-1.0.0&ch=Width%2CDPR&auto=format&w=750&h=450&q=50" alt="framework-ltc" width="45" height="40"/></a>
+    <a href="https://www.uipath.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/8/80/UiPath_2019_Corporate_Logo.png" alt="uipath" width="77" height="40"/></a>
+</p>
+
 #### Web Development
 <p align="left">
     <a href="https://nodejs.org/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
@@ -38,31 +81,6 @@
     <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
 </p>
 
-#### AI & Large Language Models
-<p align="left">
-    <a href="https://blog.google/technology/ai/google-gemini-ai/#sundar-note" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/1024px-Google_Gemini_logo.svg.png" alt="gemini" width="40" height="40"/></a>
-    <a href="https://openai.com/chatgpt/" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/021/059/825/original/chatgpt-logo-chat-gpt-icon-on-green-background-free-vector.jpg" alt="gpt" width="40" height="40"/></a>
-    <a href="https://x.ai" target="_blank"><img src="https://x.ai/apple-icon.png?d82460d2a9afe67b" alt="grok" width="40" height="40"/></a>
-    <a href="https://llama.meta.com/#" target="_blank"><img src="https://www.enterpriseai.news/wp-content/uploads/2024/04/4-19-24-meta-ai-logo-685x320.webp" alt="llama" width="40" height="40"/></a>
-</p>
-
-#### Data Science & Machine Learning
-<p align="left">
-    <a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/></a>
-    <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="65" height="40"/></a>
-    <a href="https://pandas.pydata.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></a>
-    <a href="https://numpy.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/></a>
-</p>
-
-#### Tools & Technologies
-<p align="left">
-    <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://jestjs.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/></a>
-    <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-    <a href="https://www.redsailtechnologies.com/pharmacy-software/docutrack" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9617d8911e0a2f79d3325d01245fc722/docutrack.png" alt="docutrack" width="40" height="45"/></a>
-    <a href="https://frameworkltc.com" target="_blank"><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a10b4425-fa40-454f-b4c1-0e10e2e3201d.png?ixlib=rb-1.0.0&ch=Width%2CDPR&auto=format&w=750&h=450&q=50" alt="framework-ltc" width="45" height="40"/></a>
-    <a href="https://www.uipath.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/8/80/UiPath_2019_Corporate_Logo.png" alt="uipath" width="77" height="40"/></a>
-</p>
 
 ---
 
