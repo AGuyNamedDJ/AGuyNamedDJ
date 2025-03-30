@@ -14,6 +14,21 @@
 
 ---
 
+### Projects in Development
+- **Knowledge Model:** Our knowledge system systematically ingests, processes, and indexes open-access life science publications. It supports internal research by providing precise question-answering and efficient retrieval from a continuously updated repository of scientific literature. [Back-End Repository](https://github.com/NaS-Research/knowledge-model)
+- **Lumen:** An AI-driven trading platform tailored to autonomously execute and manage advanced options strategies. [Back-End Repository](https://github.com/AGuyNamedDJ/Lumen),  [Front-End Repository](https://github.com/AGuyNamedDJ/Lumen-Front-End)
+
+
+### Professional Development & Certifications in Progress
+- **Doctor of Pharmacy**
+
+### Contact Information
+- **Email:** Feel free to reach out to me at [dalronj.robertson@gmail.com](mailto:dalronj.robertson@gmail.com)
+- **Curriculum Vitae:** [View My CV](https://www.dropbox.com/scl/fi/bmpzfu8cw73vk5x9s013f/DJR-CV-3.pdf?rlkey=18e28c9ud4nk9mf4jpdijzq8d&st=aauxgdya&dl=0)
+- **Resume:** [View My Resume](https://www.dropbox.com/scl/fi/1t7wr6300xj8guhab4wkg/DJR_Resume.pdf?rlkey=r6vvr3wovmb3jvd3edk3ug8jr&st=tewf43xr&dl=0)
+
+---
+
 ### Technical Skills 
 
 #### AI & Large Language Models
@@ -81,21 +96,6 @@
     <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
 </p>
 
-
----
-
-### Projects in Development
-- **Knowledge Model:** Our knowledge system systematically ingests, processes, and indexes open-access life science publications. It supports internal research by providing precise question-answering and efficient retrieval from a continuously updated repository of scientific literature. [Back-End Repository](https://github.com/NaS-Research/knowledge-model)
-- **Lumen:** An AI-driven trading platform tailored to autonomously execute and manage advanced options strategies. [Back-End Repository](https://github.com/AGuyNamedDJ/Lumen),  [Front-End Repository](https://github.com/AGuyNamedDJ/Lumen-Front-End)
-
-
-### Professional Development & Certifications in Progress
-- **Doctor of Pharmacy**
-
-### Contact Information
-- **Email:** Feel free to reach out to me at [dalronj.robertson@gmail.com](mailto:dalronj.robertson@gmail.com)
-- **Curriculum Vitae:** [View My CV](https://www.dropbox.com/scl/fi/bmpzfu8cw73vk5x9s013f/DJR-CV-3.pdf?rlkey=18e28c9ud4nk9mf4jpdijzq8d&st=aauxgdya&dl=0)
-- **Resume:** [View My Resume](https://www.dropbox.com/scl/fi/1t7wr6300xj8guhab4wkg/DJR_Resume.pdf?rlkey=r6vvr3wovmb3jvd3edk3ug8jr&st=tewf43xr&dl=0)
 
 ---
 
