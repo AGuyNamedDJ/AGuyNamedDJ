@@ -85,22 +85,17 @@
 ---
 
 ### Projects in Development
+- **Knowledge Model** Our knowledge system systematically ingests, processes, and indexes open-access life science publications. It supports internal research by providing precise question-answering and efficient retrieval from a continuously updated repository of scientific literature. [Back-End Repository](https://github.com/NaS-Research/knowledge-model)
 - **Lumen:** An AI-driven trading platform tailored to autonomously execute and manage advanced options strategies. [Back-End Repository](https://github.com/AGuyNamedDJ/Lumen),  [Front-End Repository](https://github.com/AGuyNamedDJ/Lumen-Front-End)
-- **Transposit** An advanced system automating the distribution of incoming deposits into various financial accounts based on set percentages. [Back-End Repository](https://github.com/AGuyNamedDJ/Transposit),  [Front-End Repository](https://github.com/AGuyNamedDJ/Transposit-Web)
 
-### Recently Completed Projects
-- **Jamal: Back-End:** A robust API for a Salon Suite Franchise app managing bookings, user roles, direct messaging, and payment system. [Back-End Repository](https://github.com/AGuyNamedDJ/Jamal-Backend)
-- **Health Hive:** A comprehensive backend solution for hospital data management, built with Node.js, Express, and PostgreSQL. This project emphasizes extensive database management, demonstrated by the db/seed.js file, which contains over 10,000 lines of code. Health Hive features secure authentication with JSON Web Tokens and environment variable management with dotenv, showcasing my ability to handle and manage large, complex databases efficiently. [Back-End Repository](https://github.com/AGuyNamedDJ/Health-Hive-Back-End)
-
-- **Personal Website:** My personal website showcasing my portfolio and projects.[Visit Website](https://dalronjrobertson.com),  [Front-End Repository](https://github.com/AGuyNamedDJ/Personal-Website)
 
 ### Professional Development & Certifications in Progress
-- **Amazon Web Services (AWS):** Enhancing cloud computing skills with AWS training.
-- **CompTIA Security+:** Deepening cybersecurity knowledge through CompTIA Security+ certification.
+- **Doctor of Pharmacy**
 
 ### Contact Information
 - **Email:** Feel free to reach out to me at [dalronj.robertson@gmail.com](mailto:dalronj.robertson@gmail.com)
-- **Resume:** [View My Resume](https://www.dropbox.com/scl/fi/gfq577iyorqptm9286val/DJR-Resume.docx-8.pdf?rlkey=8rh26az6v6mfuioj84zoilods&st=4lrwiine&dl=0)
+- **Curriculum Vitae:** [View My CV](https://www.dropbox.com/scl/fi/bmpzfu8cw73vk5x9s013f/DJR-CV-3.pdf?rlkey=18e28c9ud4nk9mf4jpdijzq8d&st=aauxgdya&dl=0)
+- **Resume:** [View My Resume](https://www.dropbox.com/scl/fi/1t7wr6300xj8guhab4wkg/DJR_Resume.pdf?rlkey=r6vvr3wovmb3jvd3edk3ug8jr&st=tewf43xr&dl=0)
 
 ---
 
