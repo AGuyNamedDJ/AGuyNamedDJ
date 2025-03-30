@@ -1,4 +1,4 @@
-![MasterHead]([https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://media.nature.com/w1248/magazine-assets/d41586-022-00997-5/d41586-022-00997-5_20300292.gif))
+![MasterHead](https://media.nature.com/w1248/magazine-assets/d41586-022-00997-5/d41586-022-00997-5_20300292.gif)
 
 <h1 align="center">Dalron J. Robertson, M.S. </h1>
 <h3 align="center">AI & Computational Pharmacology | Biotech Innovations | PharmD Candidate</h3>
