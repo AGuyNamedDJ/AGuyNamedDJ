@@ -18,7 +18,9 @@
 - **Doctor of Pharmacy**
 
 ### Projects in Development
-- **Knowledge Model:** Our knowledge system systematically ingests, processes, and indexes open-access life science publications. It supports internal research by providing precise question-answering and efficient retrieval from a continuously updated repository of scientific literature. [Back-End Repository](https://github.com/NaS-Research/knowledge-model)
+- **Knowledge Model:** Our knowledge system systematically ingests, processes, and indexes open-access life science publications. It supports internal research by providing precise question-answering and efficient retrieval from a continuously updated repository of scientific literature. [Repository](https://github.com/NaS-Research/knowledge-model)
+- **NaS Core:** Nicole is the sovereign LLM agent at the heart of NaS, responsible for orchestrating autonomous research, coordinating internal systems, and powering intelligent interaction across the company. [Repository](https://github.com/NaS-Research/NaS-Core)
+- **Research-Pipeline:** A swarm-based agent system responsible for autonomously running the NaS research pipeline—continuously generating, evaluating, and documenting scientific discoveries across every phase. [Repository](https://github.com/NaS-Research/Research-Pipeline)
 - **Lumen:** An AI-driven trading platform tailored to autonomously execute and manage advanced options strategies. [Back-End Repository](https://github.com/AGuyNamedDJ/Lumen),  [Front-End Repository](https://github.com/AGuyNamedDJ/Lumen-Front-End)
 
 
