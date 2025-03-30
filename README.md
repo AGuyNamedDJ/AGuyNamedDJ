@@ -31,7 +31,7 @@
     <a href="https://www.molinspiration.com" target="_blank"><img src="https://cgrtools.readthedocs.io/_static/logo.jpg" alt="molinspiration" width="40" height="40"/></a>
     <a href="https://www.schrodinger.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB0yzU5APpZJQ_ZcDDaNd6VEp_8yNWQSn5EA&s" alt="schrodinger" width="40" height="40"/></a>
     <a href="https://www.swisstargetprediction.ch" target="_blank"><img src="https://lh4.googleusercontent.com/proxy/3tYaXTMH0p1AEHXIGFEEqLzdBAoAdeVJbpjRbMqAgUpEsbZ7Qw-3xa420lF9ntTLk3WXDKndUc3EOFyXs3RozmB0HJzJ7ff5NnJY3QHbKafvoTJsE8EGrA0fYw" alt="swisstargetprediction" width="40" height="40"/></a>
-    <a href="https://www.uniprot.org" target="_blank"><img src="[https://www.uniprot.org/assets/images/logos/uniprot-rgb-optimized.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCzwEn7f87XcDYSijIOvwdtg4A8681P7TEw&s)" alt="uniprot" width="40" height="40"/></a>
+    <a href="https://www.uniprot.org" target="_blank"><img src="https://www.uniprot.org/uniprotkb_illustration.img.51c868.svg" alt="uniprot" width="40" height="40"/></a>
 </p>
 
 #### Computational Chemistry
