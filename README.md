@@ -27,17 +27,17 @@
 #### Bioinformatics & Molecular Modeling
 <p align="left">
     <a href="https://alphafold.ebi.ac.uk/" target="_blank"><img src="https://res.cloudinary.com/apideck/image/upload/v1638775806/icons/alphafold.png" alt="alphafold" width="40" height="40"/></a>
-    <a href="https://www.cgl.ucsf.edu/chimerax/" target="_blank"><img src="https://www.cgl.ucsf.edu/chimerax/docs/user/images/icons/icon256.png" alt="chimerax" width="40" height="40"/></a>
-    <a href="https://www.molinspiration.com" target="_blank"><img src="https://www.molinspiration.com/logoMi.gif" alt="molinspiration" width="40" height="40"/></a>
-    <a href="https://www.schrodinger.com" target="_blank"><img src="https://pbs.twimg.com/profile_images/1562532161156229120/1Toqf0pI_400x400.png" alt="schrodinger" width="40" height="40"/></a>
-    <a href="https://www.swisstargetprediction.ch" target="_blank"><img src="https://www.expasy.org/assets/images/resources/swisstargetprediction.png" alt="swisstargetprediction" width="40" height="40"/></a>
-    <a href="https://www.uniprot.org" target="_blank"><img src="https://www.uniprot.org/assets/images/logos/uniprot-rgb-optimized.svg" alt="uniprot" width="40" height="40"/></a>
+    <a href="https://www.cgl.ucsf.edu/chimerax/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1258640052432695299/GfmeFx1c_400x400.jpg" alt="chimerax" width="40" height="40"/></a>
+    <a href="https://www.molinspiration.com" target="_blank"><img src="https://cgrtools.readthedocs.io/_static/logo.jpg" alt="molinspiration" width="40" height="40"/></a>
+    <a href="https://www.schrodinger.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB0yzU5APpZJQ_ZcDDaNd6VEp_8yNWQSn5EA&s" alt="schrodinger" width="40" height="40"/></a>
+    <a href="https://www.swisstargetprediction.ch" target="_blank"><img src="https://lh4.googleusercontent.com/proxy/3tYaXTMH0p1AEHXIGFEEqLzdBAoAdeVJbpjRbMqAgUpEsbZ7Qw-3xa420lF9ntTLk3WXDKndUc3EOFyXs3RozmB0HJzJ7ff5NnJY3QHbKafvoTJsE8EGrA0fYw" alt="swisstargetprediction" width="40" height="40"/></a>
+    <a href="https://www.uniprot.org" target="_blank"><img src="[https://www.uniprot.org/assets/images/logos/uniprot-rgb-optimized.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCzwEn7f87XcDYSijIOvwdtg4A8681P7TEw&s)" alt="uniprot" width="40" height="40"/></a>
 </p>
 
 #### Computational Chemistry
 <p align="left">
-    <a href="https://cadd.labshare.cn/cb-dock2/" target="_blank"><img src="https://cadd.labshare.cn/static/image/favicon.ico" alt="cb-dock2" width="40" height="40"/></a>
-    <a href="https://www.schrodinger.com/products/glide" target="_blank"><img src="https://pbs.twimg.com/profile_images/1562532161156229120/1Toqf0pI_400x400.png" alt="schrodinger-glide" width="40" height="40"/></a>
+    <a href="https://cadd.labshare.cn/cb-dock2/" target="_blank"><img src="https://cadd.labshare.cn/cb-dock2/images/clab.png" alt="cb-dock2" width="40" height="40"/></a>
+    <a href="https://www.schrodinger.com/products/glide" target="_blank"><img src="https://logo.clearbit.com/schrodinger.com?size=512" alt="schrodinger-glide" width="40" height="40"/></a>
 </p>
 
 
