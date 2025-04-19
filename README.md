@@ -1,7 +1,7 @@
 ![MasterHead](https://media.nature.com/w1248/magazine-assets/d41586-022-00997-5/d41586-022-00997-5_20300292.gif)
 
 <h1 align="center">Dalron J. Robertson, M.S. </h1>
-<h3 align="center">AI & Computational Pharmacology | Biotech Innovations | PharmD Candidate</h3>
+<h3 align="center">Computational Pharmacologist & AI/ML Research Engineer | PharmD Candidate</h3>
 
 <p align="center">
     <a href="https://instagram.com/aguynameeddj" target="_blank">Instagram</a> |
