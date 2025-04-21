@@ -4,6 +4,11 @@
 <h3 align="center">Computational Pharmacologist & AI/ML Research Engineer</h3>
 <h3 align="center">Doctor of Pharmacy Candidate</h3>
 <p align="center">Dalron J. Robertson is creator, engineer, and researcher working in the life sciences. With training in biomedical science, clinical pharmacology, and software engineering, his work focuses on building systems that support discovery across biology, medicine, and computation.</p>
+<p align="center">Creation has always been at the center of how he moves through the world. Whether through research, writing, teaching, coding, or visual storytelling, he builds with clarity and intention. His work centers on designing intelligent systems for scientific discovery, with a focus on pharmacology, machine learning, and high performance computing methods in biomedical research. His projects range from computational pipelines and language models to published books, lectures, and digital media. Each is grounded in a desire to shape what is useful, meaningful, and enduring.</p>
+<p align="center">He is committed to creating work that helps others think more clearly, move more freely, and build what comes next in science, health, and beyond.</p>
+<p align="center">HBCU alumnus. Patron of the Arts.
+Creating what is to come in the life sciences.</p>
+
 
 <p align="center">
     <a href="https://instagram.com/aguynameeddj" target="_blank">Instagram</a> |
