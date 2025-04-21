@@ -3,6 +3,7 @@
 <h1 align="center">Dalron J. Robertson, M.S. </h1>
 <h3 align="center">Computational Pharmacologist & AI/ML Research Engineer</h3>
 <h3 align="center">Doctor of Pharmacy Candidate</h3>
+<p align="center">Dalron J. Robertson is creator, engineer, and researcher working in the life sciences. With training in biomedical science, clinical pharmacology, and software engineering, his work focuses on building systems that support discovery across biology, medicine, and computation.</p>
 
 <p align="center">
     <a href="https://instagram.com/aguynameeddj" target="_blank">Instagram</a> |
