@@ -35,8 +35,8 @@ He is committed to creating work that helps others think more clearly, move more
 
 ### Contact Information
 - **Email:** Feel free to reach out to me at [dalronj.robertson@gmail.com](mailto:dalronj.robertson@gmail.com)
-- **Curriculum Vitae:** [View My CV](https://www.dropbox.com/scl/fi/bmpzfu8cw73vk5x9s013f/DJR-CV-3.pdf?rlkey=18e28c9ud4nk9mf4jpdijzq8d&st=aauxgdya&dl=0)
-- **Resume:** [View My Resume](https://www.dropbox.com/scl/fi/1t7wr6300xj8guhab4wkg/DJR_Resume.pdf?rlkey=r6vvr3wovmb3jvd3edk3ug8jr&st=tewf43xr&dl=0)
+- **Curriculum Vitae:** [View My CV](https://www.dropbox.com/scl/fi/axmahn043z2j26ybkd1wn/DJR-CurriculumVitae-2.pdf?rlkey=wwjy7wowk19d47kvq4x4v1tpg&st=cxf5te0e&dl=0)
+- **Resume:** [View My Resume](https://www.dropbox.com/scl/fi/g57cd35l4fmgc1y5fssz7/DJR-Resume-5.pdf?rlkey=uzohcs5ffb35ytnheczchd0p1&st=qolhwojn&dl=0)
 
 ---
 
