@@ -23,10 +23,14 @@ He is committed to creating work that helps others think more clearly, move more
 
 ---
 
-### Professional Development & Certifications in Progress
+### Professional Development in Progress
 - **Doctor of Pharmacy**
 
+---
+
 ### Recently Completed Projects
+
+---
 
 ### Projects in Development
 - **Personal Website:** Currently redeveloping my personal website to clearly showcase active research, ongoing projects, and professional accomplishments. [Repository](https://github.com/AGuyNamedDJ/Personal-Website/tree/main)
