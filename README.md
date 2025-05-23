@@ -26,6 +26,8 @@ He is committed to creating work that helps others think more clearly, move more
 ### Professional Development & Certifications in Progress
 - **Doctor of Pharmacy**
 
+### Recently Completed Projects
+
 ### Projects in Development
 - **Personal Website:** Currently redeveloping my personal website to clearly showcase active research, ongoing projects, and professional accomplishments. [Repository](https://github.com/AGuyNamedDJ/Personal-Website/tree/main)
 - **Knowledge Model:** Our knowledge system systematically ingests, processes, and indexes open-access life science publications. It supports internal research by providing precise question-answering and efficient retrieval from a continuously updated repository of scientific literature. [Repository](https://github.com/NaS-Research/knowledge-model)
