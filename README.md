@@ -27,6 +27,7 @@ He is committed to creating work that helps others think more clearly, move more
 - **Doctor of Pharmacy**
 
 ### Projects in Development
+- **Personal Website:** Currently redeveloping my personal website to clearly showcase active research, ongoing projects, and professional accomplishments. [Repository](https://github.com/AGuyNamedDJ/Personal-Website/tree/main)
 - **Knowledge Model:** Our knowledge system systematically ingests, processes, and indexes open-access life science publications. It supports internal research by providing precise question-answering and efficient retrieval from a continuously updated repository of scientific literature. [Repository](https://github.com/NaS-Research/knowledge-model)
 - **NaS Core:** Nicole is the sovereign LLM agent at the heart of NaS, responsible for orchestrating autonomous research, coordinating internal systems, and powering intelligent interaction across the company. [Repository](https://github.com/NaS-Research/NaS-Core)
 - **Research-Pipeline:** A swarm-based agent system responsible for autonomously running the NaS research pipeline—continuously generating, evaluating, and documenting scientific discoveries across every phase. [Repository](https://github.com/NaS-Research/Research-Pipeline)
