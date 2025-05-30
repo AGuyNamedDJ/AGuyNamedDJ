@@ -29,16 +29,15 @@ He is committed to creating work that helps others think more clearly, move more
 ---
 
 ### Recently Completed Projects
+- **Personal Website:** Redesigned personal website clearly showcasing active research, ongoing projects, and professional accomplishments. Currently undergoing final optimizations. [Repository](https://github.com/AGuyNamedDJ/Personal-Website/tree/main)
 
 ---
 
 ### Projects in Development
-- **Personal Website:** Currently redeveloping my personal website to clearly showcase active research, ongoing projects, and professional accomplishments. [Repository](https://github.com/AGuyNamedDJ/Personal-Website/tree/main)
-- **Knowledge Model:** Our knowledge system systematically ingests, processes, and indexes open-access life science publications. It supports internal research by providing precise question-answering and efficient retrieval from a continuously updated repository of scientific literature. [Repository](https://github.com/NaS-Research/knowledge-model)
-- **NaS Core:** Nicole is the sovereign LLM agent at the heart of NaS, responsible for orchestrating autonomous research, coordinating internal systems, and powering intelligent interaction across the company. [Repository](https://github.com/NaS-Research/NaS-Core)
-- **Research-Pipeline:** A swarm-based agent system responsible for autonomously running the NaS research pipeline—continuously generating, evaluating, and documenting scientific discoveries across every phase. [Repository](https://github.com/NaS-Research/Research-Pipeline)
-- **Lumen:** An AI-driven trading platform tailored to autonomously execute and manage advanced options strategies. [Back-End Repository](https://github.com/AGuyNamedDJ/Lumen),  [Front-End Repository](https://github.com/AGuyNamedDJ/Lumen-Front-End)
-
+- **NaS Website:** Official website for NaS, highlighting our work as the global hub for Computational Life Sciences innovation. [Repository](https://github.com/NaS-Research/nas-website)
+- **Knowledge Model:** Systematically ingests, processes, and indexes open-access life sciences publications, enabling precise question-answering and efficient retrieval from a continuously updated repository. [Repository](https://github.com/NaS-Research/knowledge-model)
+- **NaS Core:** Nicole, the sovereign LLM agent at NaS, orchestrates autonomous research, coordinates internal systems, and powers intelligent interactions company-wide. [Repository](https://github.com/NaS-Research/NaS-Core)
+- **Research Pipeline:** Swarm-based agent system autonomously running the NaS research pipeline, continuously generating, evaluating, and documenting scientific discoveries. [Repository](https://github.com/NaS-Research/Research-Pipeline)
 
 ### Contact Information
 - **Email:** Feel free to reach out to me at [dalronj.robertson@gmail.com](mailto:dalronj.robertson@gmail.com)
