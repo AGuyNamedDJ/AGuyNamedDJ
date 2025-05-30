@@ -24,12 +24,13 @@ He is committed to creating work that helps others think more clearly, move more
 ---
 
 ### Professional Development in Progress
-- **Doctor of Pharmacy**
+- **Doctor of Pharmacy (Pharm.D.):** Currently completing advanced clinical training, specializing in pharmacology and therapeutic applications.
 
 ---
 
-### Recently Completed Projects
+### Recently Completed Projects & Milesstones
 - **Personal Website:** Redesigned personal website clearly showcasing active research, ongoing projects, and professional accomplishments. Currently undergoing final optimizations. [Repository](https://github.com/AGuyNamedDJ/Personal-Website/tree/main)
+- **Master of Science in Biological Sciences, Mississippi College:** Successfully completed my M.S. degree, further solidifying expertise in computational biology, bioinformatics, and life science research.
 
 ---
 
