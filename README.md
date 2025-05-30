@@ -11,7 +11,9 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=djroberton95&label=Profile%20views&color=0e75b6&style=flat" alt="djroberton95" /> </p>
 
+
 ---
+
 
 ### About
 
@@ -21,18 +23,24 @@ Creation has always been at the center of how he moves through the world. Whethe
 
 He is committed to creating work that helps others think more clearly, move more freely, and build what comes next in science, health, and beyond.
 
+
 ---
+
 
 ### Professional Development in Progress
 - **Doctor of Pharmacy (Pharm.D.):** Currently completing advanced clinical training, specializing in pharmacology and therapeutic applications.
 
+
 ---
+
 
 ### Recently Completed Projects & Milesstones
 - **Personal Website:** Redesigned personal website clearly showcasing active research, ongoing projects, and professional accomplishments. Currently undergoing final optimizations. [Repository](https://github.com/AGuyNamedDJ/Personal-Website/tree/main)
 - **Master of Science in Biological Sciences, Mississippi College:** Successfully completed my M.S. degree, further solidifying expertise in computational biology, bioinformatics, and life science research.
 
+
 ---
+
 
 ### Projects in Development
 - **NaS Website:** Official website for NaS, highlighting our work as the global hub for Computational Life Sciences innovation. [Repository](https://github.com/NaS-Research/nas-website)
@@ -45,7 +53,9 @@ He is committed to creating work that helps others think more clearly, move more
 - **Curriculum Vitae:** [View My CV](https://www.dropbox.com/scl/fi/axmahn043z2j26ybkd1wn/DJR-CurriculumVitae-2.pdf?rlkey=wwjy7wowk19d47kvq4x4v1tpg&st=cxf5te0e&dl=0)
 - **Resume:** [View My Resume](https://www.dropbox.com/scl/fi/g57cd35l4fmgc1y5fssz7/DJR-Resume-5.pdf?rlkey=uzohcs5ffb35ytnheczchd0p1&st=qolhwojn&dl=0)
 
+
 ---
+
 
 ### Technical Skills 
 
@@ -116,6 +126,7 @@ He is committed to creating work that helps others think more clearly, move more
 
 
 ---
+
 
 <a>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aguynameddj&show_icons=true&locale=en" alt="aguynameddj" /></p>
