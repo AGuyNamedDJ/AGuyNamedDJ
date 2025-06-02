@@ -35,6 +35,7 @@ He is committed to creating work that helps others think more clearly, move more
 
 
 ### Recently Completed Projects & Milesstones
+- **NaS Website:** Official website for NaS, highlighting our work as the global hub for Computational Life Sciences innovation. [Repository](https://github.com/NaS-Research/nas-website)
 - **Personal Website:** Redesigned personal website clearly showcasing active research, ongoing projects, and professional accomplishments. Currently undergoing final optimizations. [Repository](https://github.com/AGuyNamedDJ/Personal-Website/tree/main)
 - **Master of Science in Biological Sciences, Mississippi College:** Successfully completed my M.S. degree, further solidifying expertise in computational biology, bioinformatics, and life science research.
 
@@ -43,7 +44,6 @@ He is committed to creating work that helps others think more clearly, move more
 
 
 ### Projects in Development
-- **NaS Website:** Official website for NaS, highlighting our work as the global hub for Computational Life Sciences innovation. [Repository](https://github.com/NaS-Research/nas-website)
 - **Knowledge Model:** Systematically ingests, processes, and indexes open-access life sciences publications, enabling precise question-answering and efficient retrieval from a continuously updated repository. [Repository](https://github.com/NaS-Research/knowledge-model)
 - **NaS Core:** Nicole, the sovereign LLM agent at NaS, orchestrates autonomous research, coordinates internal systems, and powers intelligent interactions company-wide. [Repository](https://github.com/NaS-Research/NaS-Core)
 - **Research Pipeline:** Swarm-based agent system autonomously running the NaS research pipeline, continuously generating, evaluating, and documenting scientific discoveries. [Repository](https://github.com/NaS-Research/Research-Pipeline)
