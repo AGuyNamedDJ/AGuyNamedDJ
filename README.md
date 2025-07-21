@@ -1,8 +1,8 @@
 ![MasterHead](https://media.nature.com/w1248/magazine-assets/d41586-022-00997-5/d41586-022-00997-5_20300292.gif)
 
 <h1 align="center">Dalron J. Robertson, M.S. </h1>
-<h3 align="center">AI/ML Research Engineer & Computational Life Scientist</h3>
-<h4 align="center">Doctor of Pharmacy Candidate</h4>
+<h3 align="center">Research Scientist Scientist</h3>
+<h4 align="center">Doctor of Pharmacy & MBA Candidate</h4>
 <p align="center">
     <a href="https://instagram.com/aguynameeddj" target="_blank">Instagram</a> |
     <a href="https://linkedin.com/in/dalronjrobertson" target="_blank">LinkedIn</a> |
@@ -29,6 +29,7 @@ He is committed to creating work that helps others think more clearly, move more
 
 ### Professional Development in Progress
 - **Doctor of Pharmacy (Pharm.D.):** Currently completing advanced clinical training, specializing in pharmacology and therapeutic applications.
+- **Master of Business Administration (MBA):** Pursuing comprehensive training in core business disciplines, emphasizing leadership, ethics, and strategic decision-making.
 
 
 ---
