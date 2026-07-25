@@ -69,7 +69,8 @@ The source for [dalronjrobertson.com](https://dalronjrobertson.com), featuring r
 **Bioinformatics:** AlphaFold, ChimeraX, UniProt, SwissTargetPrediction, Molinspiration  
 **Scientific computing:** RDKit, Schrödinger, molecular docking, descriptor analysis  
 **Development:** Git, AWS, Node.js, React, Express, FastAPI, Flask  
-**Pharmacy systems:** Parata Max, DocuTrack, FrameworkLTC, UiPath
+**Clinical and pharmacy systems:** Epic, Parata Max, DocuTrack, FrameworkLTC  
+**Automation:** UiPath
 
 ## Education in Progress
 
